@@ -2,7 +2,7 @@
 
 > Open stuff like URLs, files, executables. Cross-platform.
 
-This is meant to be used in command-line tools and scripts, not in the browser.
+This is meant to be used in command-line tools and scripts, not in the browse
 
 If you need this for Electron, use [`shell.openPath()`](https://www.electronjs.org/docs/api/shell#shellopenpathpath) instead.
 
